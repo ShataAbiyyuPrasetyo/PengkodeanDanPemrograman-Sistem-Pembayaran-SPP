@@ -1,4 +1,11 @@
-perbandingan
+Pengkodean dan Pemrograman - Sistem Pembayaran SPP
+Tugas UTS Pengkodean dan Pemrograman
+Nama: Shata Abiyyu Prasetyo
+NIM: 12030122140266
+Kelas: D
+Referensi Sistem: https://github.com/aaikiiii/pembayaran-spp
+
+Perbandingan:
 ![Screenshot 2024-04-16 183441](https://github.com/ShataAbiyyuPrasetyo/projek-andes/assets/167191583/fb07f746-d5c9-46cf-9d59-e9667975f460)
 ![Picture1](https://github.com/ShataAbiyyuPrasetyo/projek-andes/assets/167191583/1db2cb8d-62ab-4e4e-86c5-8a57dbd5ee33)
 ![Screenshot 2024-04-16 183456](https://github.com/ShataAbiyyuPrasetyo/projek-andes/assets/167191583/148d2a12-78d1-4bfa-9cad-76e193798ec0)
